@@ -1,9 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-    }
-}
-
+    }m
 #code by developer 2>
     public class VariablesExample {
     public static void main(String[] args) {
@@ -18,3 +16,7 @@ public class HelloWorld {
         System.out.println("Active: " + isActive);
     }
 }
+=======
+New code added by dev 2
+
+>>>>>>> Stashed changes
