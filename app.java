@@ -3,3 +3,18 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+#code by developer 2>
+    public class VariablesExample {
+    public static void main(String[] args) {
+        int age = 30; // Integer variable
+        String name = "Alice"; // String variable
+        double price = 19.99; // Double (decimal) variable
+        boolean isActive = true; // Boolean variable
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Price: " + price);
+        System.out.println("Active: " + isActive);
+    }
+}
