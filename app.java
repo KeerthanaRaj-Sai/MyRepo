@@ -18,5 +18,5 @@ public class HelloWorld {
 }
 =======
 New code added by dev 2
-
+We are adding some more data to know about fetch command
 >>>>>>> Stashed changes
